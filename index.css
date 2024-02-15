@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 0;
+    margin: 0;
+    text-align: center;
+}
+.input {
+    
+}
+
+.all {
+  
+    border: 2px solid black;
+    border-radius: 5px;
+    max-width: 400px;
+    height: 200px;
+    margin: auto;    
+}
+
+span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+    font-size: 30px;
+    margin: 30px 0;
+}
+
+button {
+    margin: 20px 0;
+    background: lightgray;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+button:hover {
+    background: lightgreen
+}
+.center-text {
+    text-align: center;
+    margin: 12px 0 0 0
+}
